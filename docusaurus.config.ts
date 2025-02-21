@@ -72,14 +72,6 @@ const config: Config = {
           title: 'Blug Docs',
           items: [
             {
-              label: 'Getting Started',
-              to: '/getting-started',
-            },
-            {
-              label: 'Templates',
-              to: '/templates',
-            },
-            {
               label: 'API Reference',
               to: '/api-reference',
             },
