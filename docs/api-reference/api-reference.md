@@ -1,4 +1,8 @@
 ---
-sidebar_position: 10
+sidebar_position: 4
 title: API Reference
 ---
+import DocCardList from '@theme/DocCardList';
+
+
+<DocCardList />
